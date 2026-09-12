@@ -7,6 +7,7 @@ public class Account {
   }
 
 
-
-
+    public void setBalance(int userInput) {
+      balance = userInput;
+    }
 }
